@@ -1,3 +1,3 @@
-# Striver SDE Solution
+# CPP-DSA
 
-This repo is made for my personal practice.
+This repository consists of solutions of almost all the Data Structures and Algorithms questions asked in the interviews
